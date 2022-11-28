@@ -6,6 +6,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsondornelas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+
 <div style="display: inline_block"><br>
 
 ### > Languages and Tools I use for work:
